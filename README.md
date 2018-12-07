@@ -1,6 +1,10 @@
 # The-Ultimate-Design-Resource-Go-To
 Open source, curated resources for becoming the ultimate designer :) 
 
+Should you go to design school:
++ [What Goes On In Design School](https://www.aiga.org/guide-whatgoeson) - Written by assistant prof in Comms @ Parsons
++ [Maths on Design School](https://www.youtube.com/watch?v=tOr4DoDYXaA) - Should You Go To Design School: Doing The Math on Education
+
 
 # Design Resources
 
