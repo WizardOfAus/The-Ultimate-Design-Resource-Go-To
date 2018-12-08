@@ -10,6 +10,8 @@
 
 Imagine designing to communicate without words, using symbols, shapes and colors instead.
 
+&nbsp;
+
 - <b>Shephard Fairey</b>: Andre the Giant Campaign & OBEY clothing
 
 <p align="center"> 
