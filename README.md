@@ -49,3 +49,4 @@ Should you go to design school:
 - https://github.com/teoga/awesome-product-design
 - https://github.com/gztchan/awesome-design
 - https://www.dexigner.com/design-events/Industrial-Design
+- https://en.wikipedia.org/wiki/Paul_Ekman#Emotions_as_universal_categories - Facial Action Encoding System
