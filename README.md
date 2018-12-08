@@ -40,6 +40,9 @@ Should you go to design school:
 ## Chrome Extensions
 + [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl) - The best web screenshot tool I've found
 
+## Interesting Tales
++ [Reinventing Death in the 21st Century](https://www.designcouncil.org.uk/news-opinion/reinventing-death-twenty-first-century-0) - Design Council
+
 
 ## Links to go back to and curate properly
 
