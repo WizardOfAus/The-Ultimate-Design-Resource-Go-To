@@ -44,6 +44,13 @@ Should you go to design school:
 + [Reinventing Death in the 21st Century](https://www.designcouncil.org.uk/news-opinion/reinventing-death-twenty-first-century-0) - Design Council
 
 
+# Events
+
+## London
+
++ [DesignCalender](https://www.designcalendar.io/) - Happenings in London
+
+
 ## Links to go back to and curate properly
 
 - https://github.com/teoga/awesome-product-design
