@@ -1,6 +1,10 @@
 # The-Ultimate-Design-Resource-Go-To
 Open source, curated resources for becoming the ultimate designer :) 
 
+<p align="center", "italics"> <i>"All children are artists. The problem is how to remain an artist once we grow up." </i> - Pablo Picasso </p>
+
+<br />
+
 Should you go to design school:
 + [What Goes On In Design School](https://www.aiga.org/guide-whatgoeson) - Written by assistant prof in Comms @ Parsons
 + [Maths on Design School](https://www.youtube.com/watch?v=tOr4DoDYXaA) - Should You Go To Design School: Doing The Math on Education
