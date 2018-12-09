@@ -18,6 +18,9 @@ Imagine designing to communicate without words, using symbols, shapes and colors
 <img src="https://img.rt.com/files/oldfiles/usa/shepard-fairey-hope-jail-145/obama-hope.si.jpg">
 </p>
 
+
 - <b>Margaret Calvert and Jock Kinneir</b>: British National Road Signs
+
+- <b>Robert Brunner</b>: Pre-cursor of Jony Ive, Founder of Ammunition, talk: https://www.youtube.com/watch?v=ecCXzW6M2o4
 
 
