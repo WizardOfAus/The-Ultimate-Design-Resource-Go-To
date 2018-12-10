@@ -1,5 +1,7 @@
 # Legends, Pioneers and Impacteers
 
+<i>Technology enables, but design establishes.</i>
+
 &nbsp;
 
 - <b>Dieter Rams</b>: CDO of Braun, 10 Principles of Good Design, SK4 Phonosuper
