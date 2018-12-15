@@ -51,7 +51,8 @@ Should you go to design school:
 ## Drawing and Sketching
 + [Learn to draw with drawbox](http://drawabox.com/) - Free guide intro to drawing
 
-http://drawabox.com/
+## Patterns
++ [Pattern Library](http://thepatternlibrary.com) - Patterns
 
 # Events
 
