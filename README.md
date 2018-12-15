@@ -12,6 +12,9 @@ Should you go to design school:
 
 # Design Resources
 
+## Fonts
++ [Google Fonts](https://fonts.google.com/) - List of popular fonts on the web and their implementation methods
+
 ## Icons
 + [Feather Icons](https://feathericons.com/) - beautiful open source icons
 + [IcoMoon](https://icomoon.io/) - SVG icon libraries and icon font / SVGdef generator
