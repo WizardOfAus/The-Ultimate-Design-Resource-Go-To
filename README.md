@@ -14,6 +14,7 @@ Should you go to design school:
 
 ## Fonts
 + [Google Fonts](https://fonts.google.com/) - List of popular fonts on the web and their implementation methods
++ [Make Your Own Font - Illustrator Font Extension](https://www.fontself.com/) - Create your own font, extension
 
 ## Icons
 + [Feather Icons](https://feathericons.com/) - beautiful open source icons
