@@ -5,16 +5,18 @@ Open source, curated resources for becoming the ultimate designer :)
 
 <br />
 
-Table Of Contents Linking To Markdown Pages in my Repo
+## Table Of Contents Linking To Markdown Pages in my Repo
 + [Designs from Designers I Liked](https://github.com/WizardOfAus/The-Ultimate-Design-Resource-Go-To/blob/master/Beautiful%20Stuff/Great%20Designers.md)
 + [Great Books](https://github.com/WizardOfAus/The-Ultimate-Design-Resource-Go-To/blob/master/Great%20Books%20To%20Read/Book%20List.md) 
 + [Links To Beautiful Designs](https://github.com/WizardOfAus/The-Ultimate-Design-Resource-Go-To/blob/master/Beautiful%20Stuff/Beautiful%20Designs.md)
 + [Notable Designers and Artists](https://github.com/WizardOfAus/The-Ultimate-Design-Resource-Go-To/blob/master/Legendary%20Designers/Designers%20%26%20Artists.md) 
 
+## On Deciding Whether To Go To Art & Design School 
 Should you go to design school:
 + [What Goes On In Design School](https://www.aiga.org/guide-whatgoeson) - Written by assistant prof in Comms @ Parsons
 + [Maths on Design School](https://www.youtube.com/watch?v=tOr4DoDYXaA) - Should You Go To Design School: Doing The Math on Education
 
+On my own thoughts: (I advocate it!)
 
 # Design Resources
 
