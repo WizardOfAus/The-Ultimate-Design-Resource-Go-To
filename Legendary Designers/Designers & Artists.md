@@ -17,6 +17,9 @@ Listed in order of chief discipline focus:
 - <b>Shephard Fairey</b>: Andre the Giant Campaign & OBEY clothing
 <br />
 
+## Futurist
+- <b>Anab Jain</b>: Co-founder of Superflux http://superflux.in/index.php/team/anab/#
+
 ## Industrial Design
 - <b>Dieter Rams</b>: CDO of Braun, 10 Principles of Good Design, SK4 Phonosuper
 - <b>Robert Brunner</b>: Pre-cursor of Jony Ive, Founder of Ammunition, talk: https://www.youtube.com/watch?v=ecCXzW6M2o4
