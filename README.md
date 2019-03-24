@@ -22,6 +22,10 @@ On my own thoughts: (I advocate it!)
 
 # Design Resources
 
+## CAD - Getting Started
++ [Blender Beginner Tutorial](https://www.youtube.com/watch?v=JYj6e-72RDs) - By Blender Guru
++ [TinkerCad](https://www.tinkercad.com/learn/designs/lessons) - Started 3D Design Lessons
+
 ## Ethnography
 + [Designing With People](http://designingwithpeople.rca.ac.uk) - Helen Hamlyn Centre of Design Resource
 
