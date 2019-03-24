@@ -11,3 +11,4 @@
 
 https://www.ideo.com/blog/visit-the-workplace-of-tomorrow-with-these-4-futuristic-designs
 
+Notes On The Frontiers of Design - https://bit.ly/2U4S6JP
