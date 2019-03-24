@@ -1,11 +1,14 @@
 ## Books
 
-- Yellow book by Roozenburg and Eekels
-- Integral Product Development by Buijs and Valkenburg
+- Yellow book by Roozenburg and Eekels (https://amzn.to/2CCYON6)
+- Integral Product Development by Buijs and Valkenburg (https://bit.ly/2TWBAwj)
 - Papers on the ViP method by Hekkert and van Dijk
 - Order and Meaning in Design by Muller
 - The Sciences of the artificial Simon H (1996)
-
+- Mechanism and Mechanical Design by Neil Sclater (https://amzn.to/2OlJwRH)
+- The Senses: Design Beyond Vision by Ellen Lupton (https://amzn.to/2WmjIYy)
+- Thinking With Type by Ellen Lupton (https://amzn.to/2U4xYrg)
+- Speculative Everything by Dunne and Raby ** Fantastic book (https://amzn.to/2UatcIE)
 
 ## Design Posts I Love
 
