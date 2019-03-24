@@ -22,6 +22,9 @@ On my own thoughts: (I advocate it!)
 
 # Design Resources
 
+## Ethnography
++ [Designing With People](http://designingwithpeople.rca.ac.uk) - Helen Hamlyn Centre of Design Resource
+
 ## Fonts
 + [Google Fonts](https://fonts.google.com/) - List of popular fonts on the web and their implementation methods
 + [Make Your Own Font - Illustrator Font Extension](https://www.fontself.com/) - Create your own font, extension
