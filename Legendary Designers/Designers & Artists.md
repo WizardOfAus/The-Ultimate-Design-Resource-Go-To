@@ -4,7 +4,9 @@ Listed in order of chief discipline focus:
 
 
 ## Architecture
+- <b>Craig Edward Dykers</b>: Founder of Snøhetta
 - <b>Frank Gehry</b>: Designed the Guggenheim in Spain and the Walt Disney Hall. Famous for using unlikely materials for everyday jobs like the Wiggle Chair.
+- <b>Olafur Eliasson</b>: spatial researcher and designer: known for sculptures and large-scale installation art employing elemental materials such as light, water, and air temperature to enhance the viewer’s experience
 <br />
 
 ## Artist cum Design
@@ -19,6 +21,7 @@ Listed in order of chief discipline focus:
 
 ## Futurist
 - <b>Anab Jain</b>: Co-founder of Superflux http://superflux.in/index.php/team/anab/#
+<br />
 
 ## Industrial Design
 - <b>Dieter Rams</b>: CDO of Braun, 10 Principles of Good Design, SK4 Phonosuper
