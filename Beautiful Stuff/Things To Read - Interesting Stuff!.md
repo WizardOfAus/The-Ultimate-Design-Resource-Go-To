@@ -11,3 +11,88 @@ https://www.smashingmagazine.com/2010/02/art-manifestos-and-their-applications-i
 https://www.theguardian.com/commentisfree/2015/sep/02/why-does-music-give-us-chills-google
 
 https://drawabox.com/lesson/0
+
+https://dcgross.com/decide-what-to-build/ - how to decide on what to build
+
+https://www.newyorker.com/magazine/2007/12/17/none-of-the-above - what IQ doesn't tell you about race - "I.Q. measures not just the quality of a person’s mind but the quality of the world that person lives in"
+
+
+Read this -> https://elviavasconcelosblog.wordpress.com/2017/07/23/part-3-what-is-speculative-critical-fiction-design/amp/
+
+
+
+Why Design thinking is failing - https://uxdesign.cc/why-design-thinking-is-failing-and-what-we-should-be-doing-differently-c8842f843b44
+
+
+https://en.wikipedia.org/wiki/Persistence_hunting
+
+Joseph Campbell’s “hero’s journey”
+
+Cryptoeconomics - https://www.burrrata.ch/rusty_cryptoeconomics/ch1/intro.html
+
+
+
+IDEO makeathon http://ethanouimet.com/ideo-colab/
+
+https://medium.com/ideo-colab/anatomy-of-a-sprint-1a2f36f56c22
+https://medium.com/ideo-colab/gather-round-three-circular-economy-prototypes-we-built-in-a-day-68debb09369c
+
+https://nicciyin.com/pivot-points
+
+
+**** 
+Interesting blog
+https://isobellawolfe.com/2019/03/19/dating1/?fbclid=IwAR3wTv2g-ZsG3v4zo3h27TS63Dzxhiq8YaLSIAqjU16cUO8XFPb7WzIDuxI - 'heightism'
+
+
+Medium Articles
+https://medium.com/@neocody/why-productivity-tools-are-useless-without-this-92438e038f64 - On Procrastination
+
+
+Philosophical
+https://ycombinator.wpengine.com/how-not-to-fail/ - Jessica Livingston’s Pretty Complete List on How Not to Fail
+https://a16z.com/2017/02/18/12-things-about-product-market-fit/ - 12 Things about Product-Market Fit
+https://www.econlib.org/library/Essays/rdPncl.html?chapter_num=2#book-reader - I Pencil, Family 'Tree'
+
+
+
+
+https://www.londonprintstudio.org.uk/page/drawing-and-gallery-courses/
+
+https://www.christianferrara.ch/Wrap-shoe
+
+https://www.christianferrara.ch/Morph-shoe-research
+
+
+
+motherboard.vice.com/amp/en_us/article/59qa55/creepy-crawling-robots-japan - design inspirations 
+
+
+
+Sketchbook for architecture - https://www.sketchbook.com/blog/how-to-draw-architectural-street-scenes/ ** sketching 
+
+
+
+How to draw architectural buildings - https://www.quora.com/I-want-to-start-learning-how-to-sketch-and-draw-architecture-Where-can-I-start-How
+
+
+
+Floor plan - https://www.smartdraw.com/floor-plan/
+
+
+
+Moving building - https://www.dezeen.com/tag/moving-buildings/
+
+
+
+Computer systems a programmer’s perspectives http://www.codeman.net/wp-content/uploads/2011/12/Computer_Systems-A_Programmers_Perspective-2e.pdf
+
+
+
+
+
+Prototyping: https://www.ideo.com/blog/practice-your-prototyping-skills-with-these-4-resources?utm_source=The+Octopus&utm_campaign=d19bb612cf-The_Octopus_Newsletter_3_2_19&utm_medium=email&utm_term=0_5a800eadc1-d19bb612cf-181453769
+
+
+
+An ongoing machine ethnography - https://medium.com/@lyxsix/https-medium-com-lyxsix-an-ongoing-machine-ethnography-9001e0e7e98b
