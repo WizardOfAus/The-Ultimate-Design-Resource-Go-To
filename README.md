@@ -78,6 +78,9 @@ On my own thoughts: (I advocate it!)
 ## Patterns
 + [Pattern Library](http://thepatternlibrary.com) - Patterns
 
+## Misc
++ [Free App Design Templates](https://www.hellobonsai.com/a/app-design-contract)
+
 # Events
 
 ## London
