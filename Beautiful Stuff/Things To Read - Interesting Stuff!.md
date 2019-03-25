@@ -96,3 +96,69 @@ Prototyping: https://www.ideo.com/blog/practice-your-prototyping-skills-with-the
 
 
 An ongoing machine ethnography - https://medium.com/@lyxsix/https-medium-com-lyxsix-an-ongoing-machine-ethnography-9001e0e7e98b
+
+
+
+
+Protocol Labs libp2p
+
+
+
+Whole Earth Discipline 
+
+
+
+https://en.m.wikipedia.org/wiki/Whole_Earth_Discipline
+
+
+
+Leslie Lamport
+
+
+
+https://cs61.seas.harvard.edu/site/2018/ - CS61 Intro c ** very good
+
+
+
+
+
+The hidden author of putinism - https://www.theatlantic.com/international/archive/2014/11/hidden-author-putinism-russia-vladislav-surkov/382489/
+
+
+
+Self sovereign identity stack https://medium.com/decentralized-identity/the-self-sovereign-identity-stack-8a2cc95f2d45
+
+
+https://dribbble.com/shots/6133608-Music-Player - Design inspirations 
+
+
+
+https://www.behance.net/creativemints
+
+
+
+Neuroscientist explores addiction - read - https://onezero.medium.com/a-neuroscientist-explores-addiction-the-brain-and-her-past-f54d1654e6d
+
+
+
+
+
+Questions you should ask your doctor - https://medium.com/s/story/the-smartest-questions-to-ask-your-doctor-b12757820524
+
+
+
+
+
+Unlocking keystone habits - https://thehustle.co/unlocking-the-keystone/?utm_source=GS_The_Hustle&utm_medium=newsletter&utm_campaign=us_br_pr_upper_ong&utm_term=GS_The_Hustle_prospecting_na_d_NativeAd4_CTA&utm_content=NativeAd4_CTA
+
+
+
+Freelance work jobs - https://m.facebook.com/groups/1534891523441903?view=permalink&id=2222759514655097
+
+
+
+
+
+Can clothing neutralise pollution - https://electronics.howstuffworks.com/gadgets/other-gadgets/clothing-neutralize-pollution.htm
+
+
