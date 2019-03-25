@@ -12,6 +12,7 @@
 - How To Win Friends and Influence People In The Digital Age by Dale Carnegie Training (https://amzn.to/2JCfTwK) 
 - The Laws of Simplicity by John Maeda (https://designopendata.files.wordpress.com/2014/05/lawsofsimplicity_johnmaeda.pdf)
 - Simplicity: A Matter of Design by Per Mollerup (https://amzn.to/2U6Ajlv)
+- Pretense Design: Surface Over Substance by Per Mollerup (https://amzn.to/2JyvGMW)
 
 #### Design On Ethics, Morality and Social Philosophy 
 - Future Ethics by Cennydd Bowles (https://amzn.to/2TV0T1Q)
