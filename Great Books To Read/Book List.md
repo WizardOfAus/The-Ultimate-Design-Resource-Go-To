@@ -9,6 +9,7 @@
 - The Senses: Design Beyond Vision by Ellen Lupton (https://amzn.to/2WmjIYy)
 - Thinking With Type by Ellen Lupton (https://amzn.to/2U4xYrg)
 - Speculative Everything by Dunne and Raby ** Fantastic book (https://amzn.to/2UatcIE)
+- How To Win Friends and Influence People In The Digital Age by Dale Carnegie Training (https://amzn.to/2JCfTwK) 
 
 ## Design Posts I Love
 
