@@ -39,6 +39,9 @@ On my own thoughts: (I advocate it!)
 + [Octicons](https://octicons.github.com/) - icon library from GitHub
 + [Material Icons](https://material.io/tools/icons/) - icon library from Google
 
+## Reads
++ [Links To Various Design Books Published and Circulated](https://designopendata.wordpress.com/) - Design Open Data
+
 ## Web-based Tools
 + [SVGO SVG Optimizer](https://jakearchibald.github.io/svgomg/) - web tool for SVG optimization
 + [IcoMoon](https://icomoon.io/) - SVG icon libraries and icon font / SVGdef generator
