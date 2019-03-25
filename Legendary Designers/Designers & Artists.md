@@ -29,6 +29,9 @@ Listed in order of chief discipline focus:
 <br />
 
 ## Researcher
+- <b>Albert Lasker</b>: Father of Modern advertising
 - <b>Don Norman</b>: Director of The Design Lab at University of California, San Diego known for Design of Everyday things (Essays: https://jnd.org/tag/essays/)
+- <b>Regis McKenna</b>: Marketer who introduced many of the ideas that are now part of the mainstream in technology marketing (Apple)
+- <b> Samuel D. Gosling </b>: Ph.D. Professor. sampoodle nellieandcliquotsmall
 <br />
 
