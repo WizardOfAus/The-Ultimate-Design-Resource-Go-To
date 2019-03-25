@@ -10,6 +10,10 @@
 - Thinking With Type by Ellen Lupton (https://amzn.to/2U4xYrg)
 - Speculative Everything by Dunne and Raby ** Fantastic book (https://amzn.to/2UatcIE)
 - How To Win Friends and Influence People In The Digital Age by Dale Carnegie Training (https://amzn.to/2JCfTwK) 
+- The Laws of Simplicity by John Maeda (https://designopendata.files.wordpress.com/2014/05/lawsofsimplicity_johnmaeda.pdf)
+
+#### Design On Ethics, Morality and Social Philosophy 
+- Future Ethics by Cennydd Bowles (https://amzn.to/2TV0T1Q)
 
 ## Design Posts I Love
 
