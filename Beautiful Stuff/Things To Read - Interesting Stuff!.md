@@ -162,3 +162,34 @@ Freelance work jobs - https://m.facebook.com/groups/1534891523441903?view=permal
 Can clothing neutralise pollution - https://electronics.howstuffworks.com/gadgets/other-gadgets/clothing-neutralize-pollution.htm
 
 
+
+
+
+
+----- VR and Electronics basics ----
+
+https://www.lifewire.com/create-a-virtual-reality-room-4121179
+
+http://rewind.co/portfolio/bbc-home-vr-spacewalk/
+
+https://www.youtube.com/watch?v=tWd-umQ0tlE
+
+
+https://learn.sparkfun.com/tutorials/what-is-a-circuit
+
+https://learn.sparkfun.com/tutorials/what-is-electricity
+
+
+https://learn.sparkfun.com/tutorials/motion-controlled-wearable-led-dance-harness
+
+https://learn.sparkfun.com/tutorials/working-with-wire
+
+https://learn.sparkfun.com/tutorials/how-to-read-a-schematic
+
+
+https://learn.sparkfun.com/tutorials/connector-basics
+
+https://learn.sparkfun.com/tutorials/how-to-use-a-multimeter
+
+http://web.nchu.edu.tw/~daw/Manual/How_to_Use_a_Breadboard.pdf
+
