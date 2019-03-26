@@ -15,6 +15,7 @@ Listed in order of chief discipline focus:
 
 ## Graphic Design
 - <b>Jock Kinneir</b>: British National Road Signs
+- <b>Kenya Hara</b>: Art director of Muji; author of Designing Design, talk: https://www.youtube.com/watch?v=FgQq09wMTbs
 - <b>Margaret Calvert </b>: British National Road Signs
 - <b>Shephard Fairey</b>: Andre the Giant Campaign & OBEY clothing
 <br />
