@@ -79,6 +79,7 @@ On my own thoughts: (I advocate it!)
 + [Pattern Library](http://thepatternlibrary.com) - Patterns
 
 ## Misc
++ [Ask Playbook](https://askplaybook.com/)
 + [Design Tech Report by John Maeda](https://designintech.report/)
 + [Free App Design Templates](https://www.hellobonsai.com/a/app-design-contract)
 + [List of Prototyping Tools](https://www.cooper.com/prototyping-tools)
