@@ -79,6 +79,7 @@ On my own thoughts: (I advocate it!)
 + [Pattern Library](http://thepatternlibrary.com) - Patterns
 
 ## Misc
++ [Design Tech Report by John Maeda](https://designintech.report/)
 + [Free App Design Templates](https://www.hellobonsai.com/a/app-design-contract)
 
 # Events
