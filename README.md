@@ -31,6 +31,7 @@ On my own thoughts: (I advocate it!)
 
 ## Fonts
 + [Google Fonts](https://fonts.google.com/) - List of popular fonts on the web and their implementation methods
++ [Inter - Open Source Font](https://rsms.me/inter/) - Inter is a typeface carefully crafted & designed for computer screens
 + [Make Your Own Font - Illustrator Font Extension](https://www.fontself.com/) - Create your own font, extension
 
 ## Icons
