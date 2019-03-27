@@ -195,3 +195,45 @@ https://learn.sparkfun.com/tutorials/how-to-use-a-multimeter
 
 http://web.nchu.edu.tw/~daw/Manual/How_to_Use_a_Breadboard.pdf
 
+
+
+****
+
+AR
+
+https://www.appcoda.com/arkit-quick-look/
+
+
+
+TO READ WHEN FREE FIRST
+
+https://algorithms.design/
+
+https://junyanz.github.io/BicycleGAN/
+
+http://thesystemis.com/
+
+https://research.fb.com/bringing-still-photos-to-life-and-3d-photography-to-your-phone/
+
+http://www.kramweisshaar.com/projects/breeding-tables
+
+http://createwith.ai/
+
+
+https://emojiscavengerhunt.withgoogle.com/ - movement makes fun + rewards
+
+http://dfaeurope.eu/portfolio-category/dfa-examples/sector/productservices/
+
+https://avc.com/2018/01/owning-yourself/
+
+
+https://continuations.com/post/183710665735/world-after-capital-freedom-to-create
+
+Freedom to Create
+The next step in the Knowledge Loop after learning is creating. Here too we need to work on our freedom. Picasso once said: “we all start out as artists, the challenge is to remain one.” My personal experience bears that out. I created many paintings growing up (some thankfully kept by my mother) that I doubt I would be able to create today. As adults we self-censor, inhibiting the natural creativity we enjoyed as children. We’ve been told that we aren’t creative or we’ve seen people reject or mock work we have created. The educational system, with its focus on preparing for standardized tests, further squelches our creative impulses. Eventually, we come to believe that creativity is something that other people do, not us.
+
+Job Loop thinking further solidifies and even institutionalizes these beliefs about creativity. Society affirms a categorization of people into amateurs and professionals based on whether or not someone gets paid. We venerate the professional guitar player, artist, or sculptor and denigrate the amateur, talking about the latter’s work as “amateurish” or “amateur hour.” Ironically, the word “amateur” derives from the Latin root amator, which means “lover of.” When we start to measure creativity by how much money an artist or musician is making, rather than the passion they feel for a pursuit, there is no wonder that many people are afraid that they will never measure up.
+
+Distractions also inhibit our impulses to create. We now live in an always on, interrupt driven world. There is always another video to watch on YouTube. Always another email message or chat to read. Always another game to play. Our brains are very poorly adapted to such an information overload environment. We evolved in a world where obtaining a bit of information—for instance, the sound of an approaching animal—was potentially a matter of life or death. It’s still very easy to distract our brains with new information.
+
+In order to be able to create, we need to disconnect ourselves from many of those stimuli at least for some time period. That requires effort. Again, a mindfulness practice will be be helpful here by allowing us to tune out interruptions. Of course there are also many hacks we can use to have fewer interruptions in the first place. For instance, I have my phone set to “Do Not Disturb” at all times.
