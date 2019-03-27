@@ -79,6 +79,7 @@ On my own thoughts: (I advocate it!)
 + [Pattern Library](http://thepatternlibrary.com) - Patterns
 
 ## Misc
++ [Adele](https://github.com/marcintreder/adele) - open source repository of publicly available design systems and pattern libraries 
 + [Ask Playbook](https://askplaybook.com/)
 + [Awesome Design Systems](https://github.com/alexpate/awesome-design-systems)
 + [Design Tech Report by John Maeda](https://designintech.report/)
