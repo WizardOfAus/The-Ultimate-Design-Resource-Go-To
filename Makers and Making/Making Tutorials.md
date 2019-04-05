@@ -22,3 +22,6 @@
 ## Presenting
 + [How To Present Your Product Idea To A Design Firm](https://medium.com/jaycon-systems/how-to-present-your-product-idea-to-a-design-firm-ecab7a911b58)
 + [What Is A Design Concept How To Master It](https://medium.muz.li/what-is-a-design-concept-how-to-master-it)
+
+## YouTube Channels
++ [Let's Make Stuff](https://www.youtube.com/channel/UCFgu0gw4qMm-bkTw9gAz5Eg) - General tutorials on cosplay-esque stuff
