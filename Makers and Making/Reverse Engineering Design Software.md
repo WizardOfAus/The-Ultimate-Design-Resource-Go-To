@@ -8,6 +8,8 @@ https://www.youtube.com/watch?v=Ix2DW3qKWV4
 
 https://www.youtube.com/watch?v=qi-HKHgP9rA
 
+I'm up to: https://youtu.be/UjuFDfr7cZ4?t=1569
+
 - Build Your Tool Kit
 This week we’ll jump into Photoshop where you’ll learn how to cut out and manipulate assets to create images that entertain and inform. You’ll even have your first taste of what it’s like to work with direction from a Creative Director.
 
