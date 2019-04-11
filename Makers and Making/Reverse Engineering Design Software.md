@@ -10,6 +10,21 @@ https://www.youtube.com/watch?v=qi-HKHgP9rA
 
 I'm up to: https://youtu.be/UjuFDfr7cZ4?t=1569
 
+
+***
+
+https://www.youtube.com/watch?v=xobQDpk3LV0
+
+https://www.youtube.com/watch?v=EU0OtCBbWog
+
+https://www.youtube.com/watch?v=mnOVEUS7Hx4 - vector portrait
+
+https://www.youtube.com/watch?v=Wm1OTLlHwIg - vector with patterns
+
+https://www.youtube.com/watch?v=8iDxCop2Yac - minimalist movie poster
+
+https://www.youtube.com/watch?v=ba4oKSEh7w4
+
 - Build Your Tool Kit
 This week we’ll jump into Photoshop where you’ll learn how to cut out and manipulate assets to create images that entertain and inform. You’ll even have your first taste of what it’s like to work with direction from a Creative Director.
 
