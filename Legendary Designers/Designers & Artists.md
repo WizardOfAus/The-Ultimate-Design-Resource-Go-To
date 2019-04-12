@@ -29,8 +29,9 @@ Listed in order of chief discipline focus:
 - <b>Robert Brunner</b>: Pre-cursor of Jony Ive, Founder of Ammunition, talk: https://www.youtube.com/watch?v=ecCXzW6M2o4
 <br />
 
-# No Barriers
+## No Barriers
 - <b> Tim Kentley-Klay</b>: Artist, Designer, Creative Entrepreneur - XYZ Studios, Wheelbarrow, Crayon and Zoox
+<br />
 
 ## Researcher
 - <b>Albert Lasker</b>: Father of Modern advertising
