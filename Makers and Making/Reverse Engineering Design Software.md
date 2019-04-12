@@ -34,6 +34,15 @@ https://www.youtube.com/watch?v=LT-9R18Xn5U - Graphic Design - Erik Kirtley rebr
 
 https://www.youtube.com/watch?v=Bb0HnaYNUx4 - How to create a 3D Terrain with Google Maps and height maps in Photoshop - 3D Map Generator Terrain
 
+https://graphicburger.com/
+
+https://www.youtube.com/watch?v=PF1iYXntX5c - using graphic burger coffee label
+
+https://www.youtube.com/watch?v=f5hlrcf-OKg - mock ups
+
+https://www.youtube.com/watch?v=eDzIaFSLy0Q - perfume
+
+
 - Build Your Tool Kit
 This week we’ll jump into Photoshop where you’ll learn how to cut out and manipulate assets to create images that entertain and inform. You’ll even have your first taste of what it’s like to work with direction from a Creative Director.
 
