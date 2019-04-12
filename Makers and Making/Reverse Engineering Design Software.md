@@ -25,6 +25,13 @@ https://www.youtube.com/watch?v=8iDxCop2Yac - minimalist movie poster
 
 https://www.youtube.com/watch?v=ba4oKSEh7w4
 
+
+https://www.youtube.com/watch?v=9SOSROTlYgA - coca cola bottle
+
+https://www.youtube.com/watch?v=f5FRcbfHKck&t=5s - mockup in photoshop
+
+https://www.youtube.com/watch?v=LT-9R18Xn5U - Graphic Design - Erik Kirtley rebrands a label for a beer bottle
+
 - Build Your Tool Kit
 This week we’ll jump into Photoshop where you’ll learn how to cut out and manipulate assets to create images that entertain and inform. You’ll even have your first taste of what it’s like to work with direction from a Creative Director.
 
