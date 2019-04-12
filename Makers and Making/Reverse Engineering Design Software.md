@@ -32,6 +32,8 @@ https://www.youtube.com/watch?v=f5FRcbfHKck&t=5s - mockup in photoshop
 
 https://www.youtube.com/watch?v=LT-9R18Xn5U - Graphic Design - Erik Kirtley rebrands a label for a beer bottle
 
+https://www.youtube.com/watch?v=Bb0HnaYNUx4 - How to create a 3D Terrain with Google Maps and height maps in Photoshop - 3D Map Generator Terrain
+
 - Build Your Tool Kit
 This week we’ll jump into Photoshop where you’ll learn how to cut out and manipulate assets to create images that entertain and inform. You’ll even have your first taste of what it’s like to work with direction from a Creative Director.
 
