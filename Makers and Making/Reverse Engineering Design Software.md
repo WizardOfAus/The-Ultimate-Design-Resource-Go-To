@@ -42,6 +42,8 @@ https://www.youtube.com/watch?v=f5hlrcf-OKg - mock ups
 
 https://www.youtube.com/watch?v=eDzIaFSLy0Q - perfume
 
+https://www.youtube.com/watch?v=hnLsktA4gmY - Blender - 80's Style Animation Loop in Eevee
+
 
 - Build Your Tool Kit
 This week we’ll jump into Photoshop where you’ll learn how to cut out and manipulate assets to create images that entertain and inform. You’ll even have your first taste of what it’s like to work with direction from a Creative Director.
