@@ -29,6 +29,9 @@ Listed in order of chief discipline focus:
 - <b>Robert Brunner</b>: Pre-cursor of Jony Ive, Founder of Ammunition, talk: https://www.youtube.com/watch?v=ecCXzW6M2o4
 <br />
 
+# No Barriers
+- <b> Tim Kentley-Klay</b>: Artist, Designer, Creative Entrepreneur - XYZ Studios, Wheelbarrow, Crayon and Zoox
+
 ## Researcher
 - <b>Albert Lasker</b>: Father of Modern advertising
 - <b>Don Norman</b>: Director of The Design Lab at University of California, San Diego known for Design of Everyday things (Essays: https://jnd.org/tag/essays/)
