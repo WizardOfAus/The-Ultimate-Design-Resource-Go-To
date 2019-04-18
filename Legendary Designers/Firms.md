@@ -1,3 +1,4 @@
+* [Alessi](https://www.alessi.com/gb_en/)
 * [Frog Design](https://www.frogdesign.com/)
 * [NDC](https://www.ndc.co.jp)
 * [Nendo](http://www.nendo.jp)
