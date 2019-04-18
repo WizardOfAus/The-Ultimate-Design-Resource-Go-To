@@ -61,3 +61,10 @@ https://www.videocopilot.net/tutorials/playlist/vfx/sub_surface_skin/
 **
 
 https://www.youtube.com/watch?v=iMtXqTmfta0
+
+
+****
+
+https://www.classcentral.com/course/coursera-live-a-history-of-art-for-artists-animators-and-gamers-693
+
+https://www.classcentral.com/course/coursera-fundamentals-of-graphic-design-4792
