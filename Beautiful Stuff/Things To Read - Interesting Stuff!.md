@@ -299,3 +299,9 @@ when you see something for the first time it seems to be important. but it’s t
 The common thread that binds these designers together is their intent of removing all that is unnecessary in the product, keeping only what is needed and let the form and hierarchy be dictated by what materials that best allow them to do that and by how people connect with the product.
 
 no marketing jazz, no usability tests, no focus groups..
+
+
+
+***
+
+To read: https://blog.prototypr.io/visual-design-motion-3f56398287f5
