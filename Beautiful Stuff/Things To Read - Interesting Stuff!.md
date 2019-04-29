@@ -259,3 +259,8 @@ https://en.wikipedia.org/wiki/Broca%27s_area
 https://www.lynda.com/Documentaries-tutorials/Marc-Newson/168235/182589-4.html
 
 carl rogers
+
+
+***
+
+The stories of objects - Hella Jongerius - "My dad always used to sit on this chair... you want to inherit this chair/memory"
