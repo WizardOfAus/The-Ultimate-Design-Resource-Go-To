@@ -251,3 +251,11 @@ https://en.wikipedia.org/wiki/Electrodermal_activity
 “Form follows feeling.”
 
 https://en.wikipedia.org/wiki/Broca%27s_area
+
+
+****
+
+
+https://www.lynda.com/Documentaries-tutorials/Marc-Newson/168235/182589-4.html
+
+carl rogers
