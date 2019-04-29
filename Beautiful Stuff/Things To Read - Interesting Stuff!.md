@@ -274,3 +274,28 @@ The stories of objects - Hella Jongerius - "My dad always used to sit on this ch
 Karim Rashid - "prince of plastic" - "design is about mass production" - using industry to produce serialised goods... change the goods for design to have an impact on them
 
 
+***
+
+https://sreikanth.tumblr.com/post/252156170/what-makes-a-design-modern
+
+Naoto Fukasawa
+
+“A very important turning point for me was the term "obsessive sketch” by takahama kyoshi, the haiku master.When the poets sentiments are overty visible, the audience may become uncomfortable
+
+Japanese ritual is the opposite
+
+By writing simply and only about what is there, the audience is drawn into the poet’s world. Their imagination is stimulated and a silent connection is established"
+
+“I realized there was no need to create new forms; all I had to do was design the relationship between a human, an object, and what is around the two.
+
+the design of an object corresponds to our unconscious movements and the environment that surrounds us.
+
+thinking needs time.
+
+feeling can be done in a moment.
+
+when you see something for the first time it seems to be important. but it’s the later, when you use the object that you realise that what you’ve missed initially is the essence of what design is all about and that is the idea behind ’without thought.’
+
+The common thread that binds these designers together is their intent of removing all that is unnecessary in the product, keeping only what is needed and let the form and hierarchy be dictated by what materials that best allow them to do that and by how people connect with the product.
+
+no marketing jazz, no usability tests, no focus groups..
