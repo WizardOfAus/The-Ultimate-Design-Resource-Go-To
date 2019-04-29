@@ -263,4 +263,14 @@ carl rogers
 
 ***
 
-The stories of objects - Hella Jongerius - "My dad always used to sit on this chair... you want to inherit this chair/memory"
+Paolo Antonelli - IKEA - affordability
+
+Chris Bangel (BMW, Rolls Royce) - cars have one face that is shown - they are like 'avatars' of your personality - who you are
+
+
+The stories of objects - Hella Jongerius - "My dad always used to sit on this chair... you want to inherit this chair/memory" e.g. sewing on buttons for a sofa for Vitra, not imperfection but "adding crafted details"... "I always want to show multiple layers in a product, it is like a puzzle to try create an individual element in the industrial product.. it makes it feel like the attention is paid to the human"
+
+
+Karim Rashid - "prince of plastic" - "design is about mass production" - using industry to produce serialised goods... change the goods for design to have an impact on them
+
+
