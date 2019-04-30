@@ -305,3 +305,6 @@ no marketing jazz, no usability tests, no focus groups..
 ***
 
 To read: https://blog.prototypr.io/visual-design-motion-3f56398287f5
+
+flash games: https://www.adobe.com/devnet/games/articles/getting-started-flash-games.html
+
